@@ -4,6 +4,16 @@ Vanilla Expansion Minecraft Forge Mod by MRH
 
 Master 1.14.4 Branch.
 
+# Download
+
+Get it at: 
+
+# Showcase
+
+![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/Showcase/blocks.png?raw=true)
+![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/Showcase/items.png?raw=true)
+![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/Showcase/panels.png?raw=true)
+![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/Showcase/veredstone.png?raw=true)
 
 # License
 
