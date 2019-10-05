@@ -15,6 +15,27 @@ Get it at: [Comming soon]
 ![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/Showcase/panels.png?raw=true)
 ![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/Showcase/veredstone.png?raw=true)
 
+# Gameplay & Recipes
+
+Mortar:
+ - Coal => Coal Dust
+ - Wheat => 2x Flour
+ - Gravel => Flint
+ - Lapiz/Coal Ore => 3x Lapiz/Coal
+ - Bone => 4x Bone Meal
+ - Blaze rod => 4x Blaze Powder
+ - Grass => Dirt
+ - Stone => Cobblestone
+ - Stone Bricks => Cracked Stone Bricks
+
+Brick Furnace:
+ - Iron Ingot + Coal Dust => Steel Ingot
+ - All other smelting recipes.
+
+Large Pot:
+ - 4x Milk => Cheese (10min)
+ - Water => Salt (10min)
+
 # License
 
 Available under MIT the license more info at: https://tldrlegal.com/license/mit-license
