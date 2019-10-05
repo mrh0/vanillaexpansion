@@ -17,6 +17,10 @@ Get it at: [Comming soon]
 
 # Gameplay & Recipes
 
+Programmable Gate:
+ Uses Lua (will change to my own interpreter) but the input is run as argument to a function.
+ out(<input field>)
+
 Mortar:
  - Coal => Coal Dust
  - Wheat => 2x Flour
