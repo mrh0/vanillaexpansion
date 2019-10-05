@@ -6,7 +6,7 @@ Master 1.14.4 Branch.
 
 # Download
 
-Get it at: [Comming soon]
+Get it at: [Coming soon]
 
 # Showcase
 
@@ -19,7 +19,7 @@ Get it at: [Comming soon]
 
 Programmable Gate:
  Uses Lua (will change to my own interpreter) but the input is run as argument to a function.
- out(<input field>)
+ out([input field])
 
 Mortar:
  - Coal => Coal Dust
