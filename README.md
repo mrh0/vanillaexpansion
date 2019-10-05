@@ -34,7 +34,7 @@ Brick Furnace:
 
 Large Pot:
  - 4x Milk => Cheese (10min)
- - Water => Salt (10min)
+ - Water => Salt (10min in sun-light)
 
 # License
 
