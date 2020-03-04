@@ -1,4 +1,4 @@
-![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/vanillaexpansion.png?raw=true)
+![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/Showcase/vanilla.png?raw=true)
 
 Vanilla Expansion Minecraft Forge Mod by MRH
 
