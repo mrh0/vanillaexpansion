@@ -1,6 +1,6 @@
 ![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/Showcase/Vanilla.png?raw=true)
 
-Vanilla Expansion Minecraft Forge Mod by MRH
+Vanilla Crafts & Expansion Minecraft Forge Mod by MRH
 
 Master 1.15.2 Branch.
 
