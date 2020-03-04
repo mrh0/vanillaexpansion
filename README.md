@@ -6,7 +6,7 @@ Master 1.15.2 Branch.
 
 # Download
 
-Get it at: [Coming soon]
+Get it at: https://www.curseforge.com/minecraft/mc-mods/vanilla-crafts-expansion
 
 # Showcase
 
