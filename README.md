@@ -14,6 +14,7 @@ Get it at: [Coming soon]
 ![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/Showcase/items.png?raw=true)
 ![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/Showcase/panels.png?raw=true)
 ![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/Showcase/veredstone.png?raw=true)
+![alt text](https://github.com/mrh0/vanillaexpansion/blob/master/Showcase/pillars.png?raw=true)
 
 # Gameplay & Recipes
 
