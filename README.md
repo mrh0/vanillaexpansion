@@ -2,7 +2,7 @@
 
 Vanilla Expansion Minecraft Forge Mod by MRH
 
-Master 1.14.4 Branch.
+Master 1.15.2 Branch.
 
 # Download
 
@@ -18,8 +18,8 @@ Get it at: [Coming soon]
 # Gameplay & Recipes
 
 Programmable Gate:
- Uses Lua (will change to my own interpreter) but the input is run as argument to a function.
- out([input field])
+ - 3 inputs, 1 output
+ - Simple interpreted language: https://github.com/mrh0/ezlogic
 
 Mortar:
  - Coal => Coal Dust
